@@ -1,0 +1,73 @@
+<!-- Page 2 – Stages & Ateliers -->
+<html>
+<head>
+  <title>Stages artistiques - Horizons Nomades</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; }
+    header, section { padding: 20px; }
+    header { background-color: #f3f3f3; text-align: center; }
+    h1, h2, h3 { color: #2e2e2e; }
+    .programme ul { padding-left: 20px; }
+    footer { background-color: #eee; padding: 20px; text-align: center; }
+    .btn { display: inline-block; margin-top: 10px; padding: 10px 15px; background: #333; color: white; text-decoration: none; border-radius: 5px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Stage de Créations Artistiques</h1>
+    <p><strong>Chant • Danse • Composition</strong><br>Du 19 au 23 août 2025 à Prébois (Trièves)</p>
+  </header>
+
+  <section>
+    <h2>Le projet</h2>
+    <p>Plongez dans un stage de 5 jours au cœur du Trièves pour explorer votre créativité à travers le chant, la danse et la composition. Une expérience artistique, humaine et immersive à vivre et à partager.</p>
+    <p><strong>Tarif :</strong> 450 € (hébergement & repas compris)</p>
+  </section>
+
+  <section>
+    <h2>Au programme</h2>
+    <div class="programme">
+      <ul>
+        <li>Ateliers chant & danse (en salle et en plein air)</li>
+        <li>Écriture, improvisation, création musicale</li>
+        <li>Mise en danse des créations</li>
+        <li>Balades créatives dans la nature</li>
+        <li>Podcasts sur des thématiques choisies</li>
+        <li>Captation vidéo et réalisation d’un film souvenir</li>
+        <li>Visite de producteurs locaux (caves, fermes...)</li>
+        <li>Repas maison conviviaux</li>
+        <li>Dernier jour ouvert au public : restitution, atelier participatif, buffet, concert & jam session</li>
+      </ul>
+    </div>
+    <p><strong>Objectif :</strong> transmettre pour mieux intégrer, prendre confiance, et créer du lien par l’art.</p>
+  </section>
+
+  <section>
+    <h2>Qui sommes-nous ?</h2>
+    <p>Horizons Nomades est une association culturelle et artistique qui fait dialoguer musique, danse et audiovisuel. Elle est portée par Clara M’Bon-Donamaz (chanteuse, trompettiste, compositrice) et Léa Da Silva (danseuse, chorégraphe, metteuse en scène).</p>
+  </section>
+
+  <section>
+    <h2>Infos pratiques</h2>
+    <p><strong>Lieu :</strong> Prébois 38710, à 1h de Grenoble, dans un cadre naturel exceptionnel</p>
+    <p>Accueil le 19 août à 9h30 • Fin le 23 août à partir de 18h<br>Logement en chambres partagées, tous repas inclus • Transport : possibilité de covoiturage</p>
+  </section>
+
+  <section>
+    <h2>Inscription</h2>
+    <p>Le stage est ouvert à tous à partir de 15 ans (accompagné d’un adulte si mineur). <br>Priorité aux dossiers complets avec acompte (100 € non remboursable sauf annulation).</p>
+    <p>À envoyer :<br>
+      • Dossier d’inscription complété et signé<br>
+      • Photocopie d’une pièce d’identité<br>
+      • Chèque d’acompte de 100 € (à l’ordre de Horizons Nomades)</p>
+    <a href="/files/DOSSIER%20D'INSCRIPTION%20stage%20Août%202025.pdf" class="btn">Télécharger le dossier d'inscription</a>
+  </section>
+
+  <footer>
+    <p>Contact : 06 46 05 31 30 • horizonsnomades.art@gmail.com</p>
+    <p>Suivez-nous : <a href="https://www.instagram.com/horizons.nomades_/">Instagram</a></p>
+  </footer>
+</body>
+</html>
