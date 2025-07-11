@@ -1,0 +1,75 @@
+<!-- Page d'accueil - Pôle 1 : Prestations musicales -->
+<html>
+<head>
+  <title>Clara MBon - Prestations musicales</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body { font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 0; }
+    header, section { padding: 20px; }
+    header { background-color: #f8f8f8; text-align: center; }
+    h1, h2, h3 { color: #333; }
+    .tarif-table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+    .tarif-table th, .tarif-table td { border: 1px solid #ccc; padding: 10px; text-align: left; }
+    footer { background-color: #eee; padding: 20px; text-align: center; }
+    .btn { display: inline-block; padding: 10px 15px; background: #333; color: white; text-decoration: none; border-radius: 5px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Clara MBon</h1>
+    <p>Chanteuse • Trompettiste • Interprète • Compositrice</p>
+    <p>Prestations musicales en Solo • Duo • Trio • Quatuor</p>
+  </header>
+
+  <section>
+    <h2>Des prestations musicales élégantes et sur-mesure</h2>
+    <p>Artiste passionnée formée au conservatoire, Clara MBon propose des prestations musicales adaptées à tous types d’événements : mariages, anniversaires, soirées d’entreprise, cocktails, repas dansants, restaurants, événements publics…</p>
+    <p><strong>Où :</strong> France entière, Belgique, Suisse</p>
+    <p><strong>Répertoire :</strong> Jazz • Blues • Swing • Chanson française • Variétés internationales • Musiques du monde</p>
+    <p>Une ambiance chaleureuse, vivante et raffinée – en solo, duo, trio ou quatuor.</p>
+  </section>
+
+  <section>
+    <h2>Nos formules musicales</h2>
+    <h3>Formule Solo – Simplicité élégante</h3>
+    <p>Voix, trompette, bande-son. Parfait pour : cocktails, restaurants, événements confidentiels, budgets serrés.</p>
+
+    <h3>Formule Duo – Douceur acoustique</h3>
+    <p>Voix, trompette, guitare. Parfait pour : réceptions, EHPAD, cocktails, ambiances lounge, repas calmes.</p>
+
+    <h3>Formule Trio – Élégance & énergie</h3>
+    <p>Voix, trompette, guitare, basse. Parfait pour : mariages, anniversaires, soirées privées/publics, événements professionnels.</p>
+
+    <h3>Formule Quatuor – L’expérience live complète</h3>
+    <p>Voix, trompette, guitare, basse, percussions. Parfait pour : grandes occasions, festivals, mariages festifs, événements dansants.</p>
+
+    <h3>Formule Live + DJ – L’animation musicale tout-en-un</h3>
+    <p>Prestation live (duo, trio ou quatuor) + DJ set avec coordination par Clara. Parfait pour : mariages complets, grandes soirées, événements clés-en-main.</p>
+  </section>
+
+  <section>
+    <h2>Tarifs</h2>
+    <table class="tarif-table">
+      <tr><th>Formule</th><th>Description</th><th>Tarif TTC</th></tr>
+      <tr><td>Solo</td><td>Clara seule (chant, trompette, bande-son)</td><td>675 €</td></tr>
+      <tr><td>Duo</td><td>Clara + guitariste</td><td>847 €</td></tr>
+      <tr><td>Trio</td><td>Clara + guitare + basse</td><td>1135 €</td></tr>
+      <tr><td>Quatuor</td><td>Clara + guitare + basse + percussions</td><td>1422 €</td></tr>
+      <tr><td>Live + DJ</td><td>2 à 4 musiciens + DJ set</td><td>1997 à 2687 €</td></tr>
+    </table>
+    <p><strong>Les plus :</strong> 15 €/artiste/30min sup. • Sonorisation incluse • Déplacements non inclus • Hébergement requis dès 3h de route • Repas à prévoir</p>
+    <p><strong>Conditions :</strong> Annulation gratuite jusqu’à 60j • 50 % dû au-delà • Paiement sous 15j ou le jour J</p>
+    <a href="mailto:clarambonpro@gmail.com" class="btn">Demander un devis</a>
+  </section>
+
+  <footer>
+    <p>Suivez Clara : 
+      <a href="https://www.instagram.com/claraa_art/">Instagram</a> | 
+      <a href="https://www.facebook.com/clara.londres">Facebook</a> | 
+      <a href="https://www.tiktok.com/@clarambon">TikTok</a>
+    </p>
+    <p>Contact : 06 46 05 31 30 • clarambonpro@gmail.com</p>
+  </footer>
+</body>
+</html>
